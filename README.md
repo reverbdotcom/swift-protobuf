@@ -1,3 +1,9 @@
+# Branch of `apple/swift-protobuf`
+Branched to get swift-protobuf building in Carthage again, until the Apple repo gets fixed.
+
+When https://github.com/apple/swift-protobuf/pull/692 is resolved/merged, the problem is probably fixed and we should stop using/delete this branch. Currently, it is only used in `reverbdotcom/record`.
+
+
 <img src="https://swift.org/assets/images/swift.svg" alt="Swift logo" height="70" >
 
 # Swift Protobuf
